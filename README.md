@@ -1,1 +1,1 @@
-# Eriam React + TypeScript + Vite + Tailwind
+TypeScript + Vite + Tailwind
